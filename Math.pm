@@ -2,7 +2,7 @@ package Bundle::Math;
 use strict;
 use warnings;
 
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 1;
 
@@ -43,6 +43,8 @@ Bundle::Math::Numeric    - Bundle of modules related to numeric algorithms
 Bundle::Math::Random     - Bundle of modules related to random numbers
 
 Bundle::Math::Statistics - Bundle of modules related to statistics
+
+Bundle::Math::Symbolic   - Bundle of modules related to symbolic math
 
 PDL                      - Perl Data Language
 
